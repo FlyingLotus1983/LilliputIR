@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For LilliputIR
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LilliputIR	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+power	 KEYWORD2
+mute	 KEYWORD2
+left	KEYWORD2
+right	KEYWORD2
+up	KEYWORD2
+down	KEYWORD2
+menu	KEYWORD2
+input	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
