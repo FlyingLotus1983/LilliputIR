@@ -6,14 +6,14 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-LilliputIR	 KEYWORD1
+LilliputIR	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-power	 KEYWORD2
-mute	 KEYWORD2
+power	KEYWORD2
+mute	KEYWORD2
 left	KEYWORD2
 right	KEYWORD2
 up	KEYWORD2
